@@ -1,5 +1,5 @@
 
-### Hi there <img width=4% src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/> , my name is **David Silva**
+# Hi there <img width=4% src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/> , my name is **David Silva**
 
 ### I'm:
 - passionate about science <img width=1.5% src="https://em-content.zobj.net/thumbs/160/microsoft/319/dna_1f9ec.png"/> and technology, especially in the areas of electronics <img width=1.5% src="https://img.icons8.com/?size=1x&id=26246&format=png"/> and programming <img width=1.5% src="https://em-content.zobj.net/thumbs/120/microsoft/319/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png"/>.
@@ -18,7 +18,7 @@ On this GitHub profile, you'll find some of <code>my projects and experiments</c
 ##### Play chess with me <img width=2% src="https://img.icons8.com/?size=512&id=CI3crbooO4AF&format=png"> : (Click on the icon) [![chess.com](https://custom-icon-badges.demolab.com/badge/chess.com--brightgreen.svg?logo=chess.com)](https://www.chess.com/member/wi2david) & [![lichess.org](https://custom-icon-badges.demolab.com/badge/lichess.org--black.svg?logo=lichess.org)](https://lichess.org/@/wi2david)
    
 ![lang](https://badgen.net/badge/made%20with/Markdown%20&%20HTML/black)  
-![version](https://badgen.net/badge/version/0.1.0/blue)
+![version](https://badgen.net/badge/version/0.1.1/blue)
 ![]()
 <!--
 **wi2david/wi2david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,8 +18,8 @@ On this GitHub profile, you'll find some of <code>my projects and experiments</c
 ##### Play chess with me <img width=2% src="https://img.icons8.com/?size=512&id=CI3crbooO4AF&format=png"> : (Click on the icon) [![chess.com](https://custom-icon-badges.demolab.com/badge/chess.com--brightgreen.svg?logo=chess.com)](https://www.chess.com/member/wi2david) & [![lichess.org](https://custom-icon-badges.demolab.com/badge/lichess.org--black.svg?logo=lichess.org)](https://lichess.org/@/wi2david)
    
 ![lang](https://badgen.net/badge/made%20with/Markdown%20&%20HTML/black)  
-![version](https://badgen.net/badge/version/0.1.1/blue)
-![]()
+![version](https://badgen.net/badge/version/0.1.2/blue)
+
 <!--
 **wi2david/wi2david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
